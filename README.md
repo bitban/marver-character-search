@@ -22,13 +22,14 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
 
 * Listar todos los personajes de marvel filtrados por el texto del usuario. Puedes elegir el formato que quieras para este listado o extender el ejemplo montado
 
-![Ejemplo](doc/example.png)
+  ![Ejemplo](doc/example.png)
 
-* Cada personaje del listado debe mostrar al menos la siguiente:
+* Cada personaje del listado debe mostrar al menos la siguiente información:
   * Nombre
   * Descripción
   * Imagen
   * Número de comics del personaje
+  
 * Vamos a poder consultar el detalle de cada personaje desde cada elemento del listado. Cada detalle de personaje debe mostrar al menos:
   * Nombre
   * URL a la pagina de detalle de Marvel Comics ej: http://marvel.com/comics/characters/1009664/thor?utm_campaign=apiRef&utm_source=efd167d210010cd64590885da9cb8473
@@ -40,8 +41,7 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
   * Listado de los últimos 4 comics del personaje
     * Titulo del comic
     * Imagen del comic 
-    
-* La app debe funcionar correctamente y sin errores de test `npm run test:unit o lint `npm run lint`
+* La app debe funcionar correctamente y sin errores de test `npm run test:unit` o lint `npm run lint`
 
 ## Comandos útiles
 ```
