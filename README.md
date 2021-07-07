@@ -11,6 +11,7 @@ El proyecto se ha inicializado utilizando la herramienta de [@vue/cli](https://c
 * Vuetify 2.X (Default install) https://vuetifyjs.com/en/
 
 Eres completamente libre de modificar cualquier cosa de este proyecto, la mayoria de código existe para servirte de ejemplo y tener ya una base preparada, pero tienes total libertad para modificarlo y generar todos los componentes que creas convenientes.
+
 Puedes utilizar las librerías que quieras (incluso no utilizar Vuetify para la UI, pero te lo recomendamos para ganar tiempo). El único requisíto es utilizar VueJS
 
 El diseño tambien es completamente libre, se creativo y sorprendenos.
