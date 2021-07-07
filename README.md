@@ -44,29 +44,32 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
 * La app debe funcionar correctamente y sin errores de test `npm run test:unit` o lint `npm run lint`
 
 ## Comandos útiles
+
+### Inicializar el proyecto
 ```
+git clone git@gitlab.bitban.com:entrevistas/marvel-character-search.git
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Arrancar servidor de desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar y minifica para producción
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Ejecutar unit tests
 ```
 npm run test:unit
 ```
 
-### Lints and fixes files
+### Lint y correción de ficheros
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalizar la configuración de la app
+Ver [configuración de Vue CLI](https://cli.vuejs.org/config/).
