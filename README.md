@@ -22,7 +22,7 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
 
 * Listar todos los personajes de marvel filtrados por el texto del usuario. Puedes elegir el formato que quieras para este listado o extender el ejemplo montado
 
-![Ejemplo](doc/example.png)
+  ![Ejemplo](doc/example.png)
 
 * Cada personaje del listado debe mostrar al menos la siguiente:
   * Nombre
