@@ -24,7 +24,7 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
 
   ![Ejemplo](doc/example.png)
 
-* Cada personaje del listado debe mostrar al menos la siguiente:
+* Cada personaje del listado debe mostrar al menos la siguiente información:
   * Nombre
   * Descripción
   * Imagen
@@ -41,8 +41,7 @@ Para que la prueba sea válida debe cumplir al menos con los siguientes requisí
   * Listado de los últimos 4 comics del personaje
     * Titulo del comic
     * Imagen del comic 
-    
-* La app debe funcionar correctamente y sin errores de test `npm run test:unit o lint `npm run lint`
+* La app debe funcionar correctamente y sin errores de test `npm run test:unit` o lint `npm run lint`
 
 ## Comandos útiles
 ```
